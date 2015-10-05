@@ -1,2 +1,5 @@
 # general
-Repo for gitter based discussions about OpenCms 
+
+This repository was created for gitter based discussions about OpenCms. 
+
+More information will follow soon. 
